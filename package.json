@@ -1,0 +1,18 @@
+{
+  "name": "webscraping-cronjob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "ADRIAN HERNANDEZ",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "mongoose": "^6.6.1",
+    "node-cron": "^3.0.2"
+  }
+}
